@@ -122,12 +122,12 @@
 ###
 
 <div align="left">
-       <a href="https://github.com/ElmorjaniMohamed/pro-darna"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=pro-darna&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
-    <a href="https://github.com/ElmorjaniMohamed/evento"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=evento&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
-   <a href="https://github.com/ElmorjaniMohamed/WikiGenius"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=WikiGenius&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
-   <a href="https://github.com/ElmorjaniMohamed/you-talent-app"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=you-talent-app&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
-  <a href="https://github.com/ElmorjaniMohamed/chrih-daba"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=chrih-daba&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
-  <a href="https://github.com/ElmorjaniMohamed/Taskify-Vue"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=Taskify-Vue&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+       <a href="https://github.com/ElmorjaniMohamed/pro-darna"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=pro-darna&disable_animations=false&theme=chartreuse-dark&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+    <a href="https://github.com/ElmorjaniMohamed/evento"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=evento&disable_animations=false&theme=chartreuse-dark&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+   <a href="https://github.com/ElmorjaniMohamed/WikiGenius"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=WikiGenius&disable_animations=false&theme=chartreuse-dark&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+   <a href="https://github.com/ElmorjaniMohamed/you-talent-app"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=you-talent-app&disable_animations=false&theme=chartreuse-dark&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+  <a href="https://github.com/ElmorjaniMohamed/chrih-daba"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=chrih-daba&disable_animations=false&theme=chartreuse-dark&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+  <a href="https://github.com/ElmorjaniMohamed/Taskify-Vue"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=Taskify-Vue&disable_animations=false&theme=chartreuse-dark&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
 </div>
 
 ###

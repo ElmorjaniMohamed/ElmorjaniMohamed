@@ -29,7 +29,7 @@
 
 ###
 
-<img src="https://github-profile-trophy.vercel.app/?username=ElmorjaniMohamed&theme=juicyfresh" alt="github-readme-streak-stats">
+<img src="https://github-profile-trophy.vercel.app/?username=ElmorjaniMohamed&theme=chartreuse-dark" alt="github-readme-streak-stats">
 
 ###
 

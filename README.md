@@ -1,12 +1,18 @@
-<img align="right" height="160" src="https://i.imgur.com/vI3CIl1.png" />
+###
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohamed+El Morjani....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 ###
 
-<div align="left">
-<h2>Hello There👋!</h2>
-</div>
+<img align="center" height="160" src="https://i.imgur.com/vI3CIl1.png" />
 
-###
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ElmorjaniMohamed.ElmorjaniMohamed">
+
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-elmorjani/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>

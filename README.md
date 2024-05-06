@@ -111,7 +111,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ElmorjaniMohamed&theme=chartreuse-dark&show_icons=true" height="150" alt="stats graph"  />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=ElmorjaniMohamed&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=ElmorjaniMohamed&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ElmorjaniMohamed&theme=chartreuse-dark&border_radius=4.2" alt="GitHub Streak" /></a>
 </div>
 
@@ -127,16 +127,7 @@
    <a href="https://github.com/ElmorjaniMohamed/WikiGenius"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=WikiGenius&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
    <a href="https://github.com/ElmorjaniMohamed/you-talent-app"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=you-talent-app&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
   <a href="https://github.com/ElmorjaniMohamed/chrih-daba"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=chrih-daba&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
-  <a href="https://github.com/ElmorjaniMohamed/Taskify-Vue"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=https://github.com/ElmorjaniMohamed/Taskify-Vue&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+  <a href="https://github.com/ElmorjaniMohamed/Taskify-Vue"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ElmorjaniMohamed&repo=Taskify-Vue&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
 </div>
 
 ###
-
-## 🏆 GitHub Profile Trophy
-
-###
-
-<img src="https://github-profile-trophy.vercel.app/?username=ElmorjaniMohamed&theme=juicyfresh" alt="github-readme-streak-stats">
-
-###
-

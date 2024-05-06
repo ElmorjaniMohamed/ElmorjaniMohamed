@@ -7,8 +7,10 @@
 </h1>
 </div>
 
-<div align="center" style="margin-bottom: 40px;">
-<img style="margin-bottom: 40px;"  height="160" src="https://i.imgur.com/vI3CIl1.png" />
+<br><br>
+
+<div align="center">
+<img height="160" src="https://i.imgur.com/vI3CIl1.png" />
 </div>
 
 

@@ -1,16 +1,14 @@
-###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ElmorjaniMohamed.ElmorjaniMohamed">
+
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohamed+El Morjani....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7FFF00&random=false&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Mohamed+El+Morjani...;Nice+to+meet+you" alt="Typing SVG" /></a>
 </h1>
 
-###
 
 <img align="center" height="160" src="https://i.imgur.com/vI3CIl1.png" />
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ElmorjaniMohamed.ElmorjaniMohamed">
 
 
 

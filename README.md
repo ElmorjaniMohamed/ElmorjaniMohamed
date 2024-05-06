@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I’m Mohamed El Morjani <br><br>- 🔭 I’m working as a Full-Stack Developer & UI/UX Specialist.<br>- 📚 I'm currently studying at <a href="https://twitter.com/youcode18">@YouCode</a>.<br>- ⚡ In my free time I work on my personal projects, workout or hike. <br>- 💡 Self-taught professional problem solver, occasional creator of awesome things.<br>- 🎯 Goals: To become the Avatar of code: bringing harmony to the developement world. <br>- 🎲 Fun fact: The largest sql query I have ever written is 715 charracters long. <br>- 📫 Let's connect:<br>&emsp;- Visit my <a href="https://your-portfolio-website.com">website</a>.<br>&emsp;- Check out my <a href="https://online.publuu.com/493901/1108775" target="_blank">resume</a>.</p>
+<p align="left">I’m Mohamed El Morjani <br><br>- 🔭 I’m working as a Full-Stack Developer & UI/UX Specialist.<br>- 📚 I'm currently studying at <a href="https://twitter.com/youcode18">@YouCode</a>.<br>- ⚡ In my free time I work on my personal projects, workout or hike. <br>- 💡 Self-taught professional problem solver, occasional creator of awesome things.<br>- 🎯 Goals: To become the Avatar of code: bringing harmony to the developement world.<br>- 📫 Let's connect:<br>&emsp;- Visit my <a href="https://your-portfolio-website.com">website</a>.<br>&emsp;- Check out my <a href="https://online.publuu.com/493901/1108775" target="_blank">resume</a>.</p>
 
 ###
 

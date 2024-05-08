@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-<a href="https://app.daily.dev/elmorjanimohamed"><img src="https://api.daily.dev/devcards/v2/3GnKSwj2WlQBa64mWxTuI.png?type=default&r=qi4" width="356" alt="El Morjani Mohamed's Dev Card"/></a>
+<a href="https://app.daily.dev/elmorjanimohamed"><img src="https://api.daily.dev/devcards/v2/3GnKSwj2WlQBa64mWxTuI.png?type=wide&r=qi4" width="652" alt="El Morjani Mohamed's Dev Card"/></a>
 </div>
 
 ## 🛠️ Skills

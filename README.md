@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I’m Mohamed El Morjani <br><br>- 🔭 I’m working as a Full-Stack Developer & UI/UX Specialist.<br>- 📚 I'm currently studying at <a href="https://twitter.com/youcode18">@YouCode</a>.<br>- ⚡ In my free time I work on my personal projects, workout or hike. <br>- 💡 Self-taught professional problem solver, occasional creator of awesome things.<br>- 🎯 Goals: To become the Avatar of code: bringing harmony to the developement world.<br>- 📫 Let's connect:<br>&emsp;- Visit my <a href="https://your-portfolio-website.com">website</a>.<br>&emsp;- Check out my <a href="https://online.publuu.com/493901/1108775" target="_blank">resume</a>.</p>
+<p align="left">I’m Mohamed El Morjani <br><br>- 🔭 I’m working as a Full-Stack Developer && UI/UX Specialist.<br>- 📚 I'm currently studying at <a href="https://twitter.com/youcode18">@YouCode</a>.<br>- ⚡ In my free time I work on my personal projects, workout or hike. <br>- 💡 Self-taught professional problem solver, occasional creator of awesome things.<br>- 🎯 Goals: To become the Avatar of code: bringing harmony to the developement world.<br>- 📫 Let's connect:<br>&emsp;- Visit my <a href="https://your-portfolio-website.com">website</a>.<br>&emsp;- Check out my <a href="https://online.publuu.com/493901/1108775" target="_blank">resume</a>.</p>
 
 ###
 
@@ -37,6 +37,10 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ElmorjaniMohamed&theme=matrix" alt="github-readme-streak-stats">
 
 ###
+
+<div align="center">
+<a href="https://app.daily.dev/elmorjanimohamed"><img src="https://api.daily.dev/devcards/v2/3GnKSwj2WlQBa64mWxTuI.png?type=default&r=qi4" width="356" alt="El Morjani Mohamed's Dev Card"/></a>
+</div>
 
 ## 🛠️ Skills
 

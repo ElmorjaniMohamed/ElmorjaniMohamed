@@ -22,13 +22,20 @@
   <a href="https://www.hackerrank.com/profile/elmorjanimohame1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" alt="hackerrank logo"  /></a>
 </div>
 
-## 👨‍💻 About
+## About Me
 
-###
+Hello! I'm Mohamed El Morjani, a passionate and dedicated Full-Stack Developer and UI/UX Specialist. I thrive on creating innovative solutions and seamless user experiences.
 
-<p align="left">I’m Mohamed El Morjani <br><br>- 🔭 I’m working as a Full-Stack Developer && UI/UX Specialist.<br>- 📚 I'm currently studying at <a href="https://twitter.com/youcode18">@YouCode</a>.<br>- ⚡ In my free time I work on my personal projects, workout or hike. <br>- 💡 Self-taught professional problem solver, occasional creator of awesome things.<br>- 🎯 Goals: To become the Avatar of code: bringing harmony to the developement world.<br>- 📫 Let's connect:<br>&emsp;- Visit my <a href="https://www.elmorjanimohamed.tech">website</a>.<br>&emsp;- Check out my <a href="https://online.publuu.com/493901/1108775" target="_blank">resume</a>.</p>
+- 🔭 **Current Role:** Full-Stack Developer and UI/UX Specialist
+- 📚 **Education:** Currently studying at [@YouCode](https://twitter.com/youcode18)
+- 🌟 **Passions:** Developing personal projects, staying fit through workouts, and exploring the outdoors through hiking
+- 💡 **Philosophy:** Self-taught problem solver with a knack for creating remarkable things
+- 🎯 **Objective:** Strive to become a master of code, harmonizing the development world
 
-###
+## Let's Connect
+
+- 🌐 **Website:** [elmorjanimohamed.tech](https://www.elmorjanimohamed.tech)
+- 📄 **Resume:** [View my resume](https://online.publuu.com/493901/1108775)
 
 ## 🏆 GitHub Profile Trophy
 

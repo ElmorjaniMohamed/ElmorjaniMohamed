@@ -24,7 +24,7 @@
 
 ## :briefcase: About Me
 
-Hello! I'm Mohamed El Morjani, a passionate and dedicated Full-Stack Developer and UI/UX Specialist. I thrive on creating innovative solutions and seamless user experiences.
+I'm Mohamed El Morjani, a passionate and dedicated Full-Stack Developer and UI/UX Specialist. I thrive on creating innovative solutions and seamless user experiences.
 
 - 🔭 **Current Role:** Full-Stack Developer and UI/UX Specialist
 - 📚 **Education:** Currently studying at [@YouCode](https://twitter.com/youcode18)

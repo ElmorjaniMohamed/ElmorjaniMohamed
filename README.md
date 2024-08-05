@@ -22,7 +22,7 @@
   <a href="https://www.hackerrank.com/profile/elmorjanimohame1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" alt="hackerrank logo"  /></a>
 </div>
 
-## About Me
+## About Me :briefcase:
 
 Hello! I'm Mohamed El Morjani, a passionate and dedicated Full-Stack Developer and UI/UX Specialist. I thrive on creating innovative solutions and seamless user experiences.
 
@@ -32,7 +32,7 @@ Hello! I'm Mohamed El Morjani, a passionate and dedicated Full-Stack Developer a
 - 💡 **Philosophy:** Self-taught problem solver with a knack for creating remarkable things
 - 🎯 **Objective:** Strive to become a master of code, harmonizing the development world
 
-## Let's Connect
+## Let's Connect :link:
 
 - 🌐 **Website:** [elmorjanimohamed.tech](https://www.elmorjanimohamed.tech)
 - 📄 **Resume:** [View my resume](https://online.publuu.com/493901/1108775)
